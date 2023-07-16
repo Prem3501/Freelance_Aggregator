@@ -1,0 +1,9 @@
+{
+  "name": "internship_aggregator",
+  "packageManager": "yarn@3.6.1",
+  "dependencies": {
+    "dotenv": "latest",
+    "mo": "^1.7.3",
+    "mongoose": "^7.3.4"
+  }
+}
